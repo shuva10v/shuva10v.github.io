@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Меня зовут Павел Шувалов. Со мной можно связаться по почте [pavel@shuvalov.io](mailto:pavel@shuvalov.io).
+[Павел Шувалов](https://ru.linkedin.com/in/pshuvalov). CTO в DoubleData.
+Область интересов - BigData, info security. 
+Со мной можно связаться по почте [pavel@shuvalov.io](mailto:pavel@shuvalov.io),
+telegram [@pshuvalov](https://telegram.me/pshuvalov)
